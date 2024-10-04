@@ -1,10 +1,10 @@
-# Supermarket API
+# Market API
 
 Bem-vindo à **Market API**, uma abstração que permite gerenciar produtos, categorias e suas interações de forma simples e eficaz. Esta API é projetada para desenvolvedores que desejam integrar funcionalidades de gerenciamento de supermercado em suas aplicações.
 
-## 🛒 O que é a Supermarket API?
+## 🛒 O que é a Market API?
 
-A Supermarket API fornece um conjunto de endpoints RESTful para manipulação de produtos e categorias de um supermercado. Com ela, você pode facilmente:
+A Market API fornece um conjunto de endpoints RESTful para manipulação de produtos e categorias de um mercado. Com ela, você pode facilmente:
 
 - **Gerenciar Produtos**: Crie, leia, atualize e exclua produtos disponíveis no supermercado.
 - **Gerenciar Categorias**: Organize seus produtos em categorias, facilitando a navegação e o gerenciamento.
